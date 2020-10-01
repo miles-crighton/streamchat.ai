@@ -10,7 +10,7 @@ The ideal output would be novel phrases complete with emotes. At a stretch these
 
 ## Process
 
-_The accompanying Jupiter Notebook shows a step-by-step of project methodology._
+_The accompanying Jupyter Notebook shows a step-by-step of project methodology._
 
 -   Firstly the data was downloaded and processed into training, test and validation datasets, along with a compilation set, described in the _Data Processing_ section below.
 
