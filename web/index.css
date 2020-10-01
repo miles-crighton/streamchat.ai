@@ -1,0 +1,44 @@
+:root {
+    --blue-bg: #091ad4;
+    --pink-bg: #df4372;
+    --cyan-text: #68d8ff;
+}
+
+body {
+    background-color: var(--blue-bg);
+    font-family: sans-serif;
+    position: relative;
+    margin: 0px;
+    overflow: hidden;
+}
+
+h1 {
+    color: white;
+    font-size: 38px;
+    font-weight: bold;
+    margin: 0px;
+}
+h3 {
+    font-size: 16px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(
+        0deg,
+        #ff927c 0%,
+        #e7ffcd 25%,
+        #fff3cc 50%,
+        #ff9fbf 75%,
+        #d6b3ff 100%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline;
+}
+
+.pink-div {
+    width: 100%;
+    border-radius: 42px 42px 0px 0px;
+    margin-top: 500px;
+    height: 500px;
+    background-color: var(--pink-bg);
+}
