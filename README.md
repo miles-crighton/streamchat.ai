@@ -6,7 +6,7 @@
 
 The goal of the project was to fine-tune a ML model in an attempt to generate messages in the style of those found on [Twitch](https://www.twitch.tv/) livestreams.
 
-The ideal output would be novel phrases complete with emotes and _ideally_ emergent sentiment.
+The ideal output would be novel phrases complete with emotes and at a stretch, emergent sentiment.
 
 ## Process
 
